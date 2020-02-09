@@ -211,4 +211,5 @@ dmypy.json
 # Pyre type checker
 .pyre/
 
-# End of https://www.gitignore.io/api/node,python
+# Jupyter
+.ipynb_checkpoints
